@@ -21,8 +21,8 @@ Currently serving as **President of InfoNex Association** — leading technical 
 | Domain | Technologies |
 |--------|-------------|
 | **Languages** | Python, Java, C, SQL |
-| **AI/ML & Data** | Machine Learning, Pandas, NumPy, Scikit-Learn, Data Visualization |
-| **Web Dev** | HTML, CSS, JavaScript, Django, Flask |
+| **AI/ML & Data** | Machine Learning, Pandas, NumPy, Data Visualization |
+| **Web Dev** | HTML, CSS, JavaScript, Django|
 | **CS Core** | Data Structures, DBMS, OS, Computer Networks, OOP |
 | **Tools** | Git, GitHub, Jupyter Notebook, VS Code, Google Colab |
 
