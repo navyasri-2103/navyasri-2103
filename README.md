@@ -37,7 +37,7 @@ Currently serving as **President of InfoNex Association** — leading technical 
 - **Stack:** Python, Pandas, Scikit-Learn, Matplotlib/Seaborn
 
 ### [Bank Management System](link-to-repo)
-*(Note: Update description based on actual project — current resume mentions license plate detection)*
+- Designed a Bank Management System to manage customer accounts, transactions, and balances efficiently.
 - **Stack:** CNN, Keras, NumPy, Machine Learning Algorithms
 
 ---
