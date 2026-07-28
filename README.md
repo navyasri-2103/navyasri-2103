@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Parsawar Navya Sri
 
-**AI/ML Enthusiast | Full-Stack Developer | Problem Solver**
+**Python Full-Stack DeveloperAI/ML Enthusiast | AI/ML Enthusiast | Problem Solver**
 
 📍 Adilabad, Telangana | 📧 navyasrip2103@gmail.com | 📱 8374722103
 
