@@ -128,17 +128,3 @@ I am a passionate **Software Developer**, **AI/ML Enthusiast**, and **Data Analy
   <a href="https://github.com/navyasri-2103" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
----
-
-### ⚡ Fun Fact & Goals
-
-> 🎯 **Goal:** Build AI-powered products that simplify real-world problems and keep expanding my knowledge daily.
->
-> 🎲 **Fun Fact:** I'd rather stay up debugging a model at midnight than leave a bug unsolved until morning!
-
-<br/>
-
-<div align="center">
-  <h3>Thanks for stopping by! 🚀</h3>
-  <p>Always open to connecting with fellow developers, collaborating on innovative projects, or just discussing tech!</p>
-</div>
