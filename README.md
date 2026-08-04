@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6A11CB&height=200&section=header&text=Hi%20There,%20I'm%20Navya%20Sri%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20AI/ML%20Enthusiast%20|%20Data%20Analytics%20Aspirant&descAlignY=58&descSize=18" width="100%"/>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Building+ML-powered+web+applications;Turning+raw+data+into+real+insights;President+%40+InfoNex+Association;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Building+ML-powered+web+applications;Turning+raw+data+into+real+insights" alt="Typing SVG" />
   
   <p align="center">
     <a href="https://www.linkedin.com/in/parsawar-navya-sri-662161348/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -30,10 +30,9 @@ I am a passionate **Software Developer**, **AI/ML Enthusiast**, and **Data Analy
 
 | Area | Focus Topics |
 | :--- | :--- |
-| **📊 Data Analytics & ML** | Deepening core mathematical foundations, statistical modeling, and data-driven insights. |
-| **🧠 Deep Learning & NLP** | Exploring Natural Language Processing, Transformer-based architectures, and LLMs. |
-| **🖥️ Full Stack Engineering** | Strengthening backend services using **Django**, **Flask**, and **FastAPI**. |
-| **🤝 Collaborative Research** | Actively seeking collaborations on open-source AI/ML and Web Development initiatives. |
+| **📊 Data Analytics** | Deepening core mathematical foundations, statistical modeling, and data-driven insights. |
+| **🖥️ Full Stack Development** | Strengthening backend and frontend development using **Django** and Python. |
+| **🤝 Collaborations** | Actively seeking collaborations on open-source AI/ML and Web Development initiatives. |
 
 ---
 
