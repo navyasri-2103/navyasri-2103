@@ -24,6 +24,7 @@ I am a passionate **Software Developer**, **AI/ML Enthusiast**, and **Data Analy
 🎓 Education: B.Tech in Information Technology | Guru Nanak Institutions Technical Campus (2023 - 2027)
 📈 Academic Standing: 9.06 CGPA
 💡 Leadership: President of InfoNex Association
+📧 Email: navyasrip2103@gmail.com
 🤝 Open To: Collaborating on AI/ML and Full-Stack development projects
 ```
 
@@ -119,6 +120,8 @@ I am a passionate **Software Developer**, **AI/ML Enthusiast**, and **Data Analy
 ---
 
 ### 📫 Let's Connect
+
+Feel free to reach out to me via email at **[navyasrip2103@gmail.com](mailto:navyasrip2103@gmail.com)** or connect with me on social platforms:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/parsawar-navya-sri-662161348/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
