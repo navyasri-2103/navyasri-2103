@@ -30,15 +30,7 @@ I am a passionate **Software Developer**, **AI/ML Enthusiast**, and **Data Analy
 
 ---
 
-### 🔭 Currently Focused On
 
-| Area | Focus Topics |
-| :--- | :--- |
-| **📊 Data Analytics** | Deepening core mathematical foundations, statistical modeling, and data-driven insights. |
-| **🖥️ Full Stack Development** | Strengthening backend and frontend development using **Django** and Python. |
-| **🤝 Collaborations** | Actively seeking collaborations on open-source AI/ML and Web Development initiatives. |
-
----
 
 ### 🛠️ Tech Stack
 
