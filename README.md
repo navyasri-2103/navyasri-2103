@@ -18,7 +18,7 @@ A passionate developer dedicated to transforming complex data into actionable in
 
 ### 🧭 About Me
 
-I am a passionate **Software Developer**, **AI/ML Enthusiast**, and **Data Analytics Aspirant** who loves turning ideas into working software. Whether it's training machine learning models to analyze physiological data, building robust REST APIs, or leading a team of student developers, I focus on clean code, understanding the "why" behind data, and shipping impactful solutions.
+I am an **Information Technology** student at Guru Nanak Institutions with a strong academic foundation (**9.06 CGPA**) and a passion for engineering intelligent systems. My expertise bridges **Full-Stack Web Development** (Django, FastAPI) with **Machine Learning & Data Science**, having built and deployed end-to-end applications like clinical stress predictors and transformer-based NLP tools. As **President of the InfoNex Association**, I blend hands-on engineering capabilities with technical leadership to build impactful, data-driven solutions.
 
 ```yaml
 🎓 Education: B.Tech in Information Technology | Guru Nanak Institutions Technical Campus (2023 - 2027)
