@@ -1,15 +1,18 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6A11CB&height=200&section=header&text=Hi%20There,%20I'm%20Navya%20Sri%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20AI/ML%20Enthusiast%20|%20Data%20Analytics%20Aspirant&descAlignY=58&descSize=18" width="100%"/>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Building+ML-powered+web+applications;Turning+raw+data+into+real+insights" alt="Typing SVG" />
-  
-  <p align="center">
-    <a href="https://www.linkedin.com/in/parsawar-navya-sri-662161348/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:navyasrip2103@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://github.com/navyasri-2103" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <img src="https://komarev.com/ghpvc/?username=navyasri-2103&label=Profile%20Views&color=2E9EF7&style=flat-square" alt="profile views" />
-  </p>
-</div>
+# 👋 Hi, I'm Parsawar Navya Sri
+
+**Software Developer | AI/ML Enthusiast | Data Analytics Aspirant**
+
+A passionate developer dedicated to transforming complex data into actionable insights and building robust web applications. Always exploring the boundaries of Machine Learning and Full-Stack Engineering.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/parsawar-navya-sri-662161348/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:navyasrip2103@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/navyasri-2103" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=navyasri-2103&label=Profile%20Views&color=0A66C2&style=flat-square" alt="profile views" />
+</p>
 
 ---
 
@@ -138,5 +141,4 @@ I am a passionate **Software Developer**, **AI/ML Enthusiast**, and **Data Analy
 <div align="center">
   <h3>Thanks for stopping by! 🚀</h3>
   <p>Always open to connecting with fellow developers, collaborating on innovative projects, or just discussing tech!</p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2E9EF7&height=100&section=footer" width="100%"/>
 </div>
