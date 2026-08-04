@@ -116,18 +116,3 @@ I am a passionate **Software Developer**, **AI/ML Enthusiast**, and **Data Analy
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=navyasri-2103&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="95%"/>
 </div>
-
----
-
-### 📫 Let's Connect
-
-Feel free to reach out to me via email at **[navyasrip2103@gmail.com](mailto:navyasrip2103@gmail.com)** or connect with me on social platforms:
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/parsawar-navya-sri-662161348/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  &nbsp;&nbsp;
-  <a href="mailto:navyasrip2103@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/navyasri-2103" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</div>
-
