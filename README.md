@@ -1,10 +1,11 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6A11CB&height=200&section=header&text=Hi%20There,%20I'm%20Navya%20Sri%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20AI/ML%20Enthusiast%20|%20Data%20Analytics%20Aspirant&descAlignY=58&descSize=18" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Building+ML-powered+web+applications;Turning+raw+data+into+real+insights;President+%40+InfoNex+Association;Always+learning%2C+always+building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+AI%2FML+Enthusiast;Building+data-driven+and+ML-powered+applications" alt="Typing SVG" />
 <br/>
 <a href="https://www.linkedin.com/in/parsawar-navya-sri-662161348/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:navyasrip2103@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/navyasri-2103"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://drive.google.com/your-resume-link"><img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=navyasri-2103&label=Profile%20Views&color=2E9EF7&style=flat-square" alt="profile views" />
 </div>
 <br/>
@@ -18,25 +19,13 @@ cgpa: 9.06
 currently_leading: President, InfoNex Association
 looking_to_collaborate_on: AI/ML and Full Stack projects
 ```
-I love turning ideas into working software — whether that's training a model to read physiological data, building an API that summarizes documents in seconds, or leading a team of student developers. I care about writing clean code, understanding the "why" behind the data, and shipping things that actually work.
+I am a B.Tech Information Technology student passionate about software development, machine learning, and data analytics. I enjoy building practical applications, working with real-world data, and continuously improving my technical and problem-solving skills.
 <br/>
 🔭 Currently Focused On
-<table>
-<tr>
-<td width="50%" valign="top">
-📊 Deepening
-Data Analytics & Machine Learning fundamentals
-🧠 Exploring
-Natural Language Processing (NLP) & Transformer-based models
-</td>
-<td width="50%" valign="top">
-🖥️ Strengthening
-Full Stack Development — Django, Flask & FastAPI
-🤝 Open to
-Collaborating on AI/ML and Web Development projects
-</td>
-</tr>
-</table>
+Deepening Data Analytics & Machine Learning fundamentals
+Exploring NLP and Transformer-based models
+Strengthening Django, Flask, and FastAPI
+Open to AI/ML and Full Stack collaborations
 <br/>
 🛠️ Tech Stack
 <table>
@@ -88,20 +77,18 @@ A web app that generates concise summaries of long documents using sentence-scor
 <br/>
 💼 Internship Highlights
 Role	Organization	Focus
-🤖 AI/ML Intern	Internpe	Applied machine learning — model building & deployment
+🤖 AI/ML Intern	Internpe	Applied machine learning techniques including data preprocessing, model training, and evaluation
 📈 Data Science & Analytics Intern	Wheeltrix	Data analysis & deriving actionable insights from real-world datasets
 <br/>
 🏆 Leadership & Achievements
-🎤 President, InfoNex Association — Leading the departmental technical association: organizing workshops, hackathons, and technical events while coordinating teams and student activities.
+🎤 President, InfoNex Association — Organized 5+ workshops and hackathons with participation from 200+ students, while leading and coordinating student teams.
 📜 Certified in Python, Java & Machine Learning — NPTEL
 📜 Certified in AI/ML — Internpe
 <br/>
 📊 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=navyasri-2103&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Navya Sri's GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=navyasri-2103&theme=tokyonight&hide_border=true" alt="Navya Sri's GitHub Streak" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navyasri-2103&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=navyasri-2103&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="90%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=navyasri-2103&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navyasri-2103&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 <br/>
 📫 Let's Connect
@@ -111,13 +98,11 @@ Role	Organization	Focus
 <a href="https://github.com/navyasri-2103"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 <br/>
-⚡ Fun Fact & Goal
-> 🎯 My goal is to build AI-powered products that make everyday problems a little easier to solve — and to keep learning something new every single day.
-> 🎲 Fun fact: I'd rather debug a stubborn model at midnight than leave a bug unsolved till morning.
+🎯 Career Goal
+To become a software engineer who builds scalable AI-powered applications that solve real-world problems.
 <br/>
 <div align="center">
 Thanks for stopping by! 🚀
 Always open to connecting with fellow developers, collaborating on interesting projects, or just talking tech.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2E9EF7&height=100&section=footer" width="100%"/>
 </div>
-
